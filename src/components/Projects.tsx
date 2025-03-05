@@ -33,13 +33,20 @@ const Projects = () => {
     },
     {
       id: 2,
-      titulo: "Sistema de Gestão",
+      titulo: "App FastFood Donalds",
       descricao:
-        "Aplicação para gestão de empresas com controle de estoque, finanças e recursos humanos.",
-      imagem: "/projeto2.jpg",
-      tecnologias: ["Next.js", "TypeScript", "PostgreSQL", "Docker"],
-      link: "https://github.com/seulink",
-      linkGitHub: "https://github.com/Rogerio-jlf/app-courses-online",
+        "Desenvolvido como parte do meu portfólio, o FastFood Donalds demonstra minhas habilidades em desenvolvimento mobile, focando em design, usabilidade e performance.",
+      imagem: "/project-app-fast-food-fsw-donalds.PNG",
+      tecnologias: [
+        "Next.js",
+        "TypeScript",
+        "Neon",
+        "Tailwind",
+        "Stripe",
+        "Shadcn/UI",
+      ],
+      link: "https://my-portfolio-green-six-66.vercel.app/",
+      linkGitHub: "https://github.com/Rogerio-jlf/my-portfolio",
     },
     {
       id: 3,

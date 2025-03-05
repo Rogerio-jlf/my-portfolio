@@ -45,8 +45,8 @@ const Projects = () => {
         "Stripe",
         "Shadcn/UI",
       ],
-      link: "https://my-portfolio-green-six-66.vercel.app/",
-      linkGitHub: "https://github.com/Rogerio-jlf/my-portfolio",
+      link: "https://next-fullstack-donalds.vercel.app/",
+      linkGitHub: "https://github.com/Rogerio-jlf/next-fullstack-donalds",
     },
     {
       id: 3,
